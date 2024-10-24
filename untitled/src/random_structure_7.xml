@@ -1,2 +1,31 @@
 <?xml version='1.0' encoding='utf-8'?>
-<library><book id="1"><title>Effective Java</title><author>Isaac Asimov</author><year>2012</year><genre>Programming</genre><price currency="RUB">98.59</price><format>Audiobook</format><language>French</language></book><book id="2"><title>Pride and Prejudice</title><author>Jane Austen</author><year>1995</year><genre>History</genre><price currency="EUR">20.33</price><publisher><name>SciTech Publishers</name><address><city>Berlin</city><country>Japan</country></address></publisher><language>Russian</language><translator>Joshua Bloch</translator><awards><award>Critics' Choice</award></awards></book></library>
+<library>
+    <book id="1">
+        <title>Effective Java</title>
+        <author>Isaac Asimov</author>
+        <year>2012</year>
+        <genre>Programming</genre>
+        <price currency="RUB">98.59</price>
+        <format>Audiobook</format>
+        <language>French</language>
+    </book>
+    <book id="2">
+        <title>Pride and Prejudice</title>
+        <author>Jane Austen</author>
+        <year>1995</year>
+        <genre>History</genre>
+        <price currency="EUR">20.33</price>
+        <publisher>
+            <name>SciTech Publishers</name>
+            <address>
+                <city>Berlin</city>
+                <country>Japan</country>
+            </address>
+        </publisher>
+        <language>Russian</language>
+        <translator>Joshua Bloch</translator>
+        <awards>
+            <award>Critics' Choice</award>
+        </awards>
+    </book>
+</library>
